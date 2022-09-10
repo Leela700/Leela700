@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leela Krishna Kaku</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leela700&label=Profile%20views&color=0e75b6&style=flat" alt="leela700" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leela700" alt="leela700" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leela700" alt="leela700" /></a> </p>
 
 - 🔭 I’m currently working on **Blogging website**
 
