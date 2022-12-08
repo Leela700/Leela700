@@ -103,17 +103,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
   <br/>
 </details>
 
-<!-- https://github.com/sisodiya2421 -->
 
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
-
-[![@yashitanamdeo's Holopin board](https://holopin.io/api/user/board?user=yashitanamdeo)](https://holopin.io/@yashitanamdeo)
